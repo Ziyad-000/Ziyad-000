@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science Student** at Assiut University (2nd Year, Expected Graduation: 2025).
+- 🎓 **Computer Science Student** at Assiut University (2nd Year, Expected Graduation: 2027).
 - 💻 Passionate about **software development**, **UI/UX design**, and **problem-solving**.
 - 🌱 Currently learning **Data Structures and Algorithms** to enhance my coding skills.
 - 🎯 Always looking for exciting opportunities like internships and collaborations to grow my skills.
