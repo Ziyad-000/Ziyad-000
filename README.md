@@ -19,6 +19,7 @@
 ### 💡 Programming Languages  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -37,7 +38,7 @@
 ---
 
 ## 📂 Featured Projects
-- 📌 **[OOP Project](https://github.com/Ziyad-000/My-Work-Space/tree/main/OOPProject)**  
+- 📌 **[OOP Project](https://github.com/Ziyad-000/OOP_Project)**  
   A Java application implementing Object-Oriented Programming principles.  
   - Utilized Maven for dependency management and build automation.  
 
@@ -45,9 +46,13 @@
   Designed an ATM simulation using C++.  
   - Focused on transaction handling and account management without GUI or database.
 
-- 📌 **[Access Database Project](https://github.com/Ziyad-000/My-Work-Space/tree/main/Two-Trees%20-%20Access%20pr)**  
+- 📌 **[Access Database Project](https://github.com/Ziyad-000/Access_Project)**  
   Developed a database system using Microsoft Access.  
   - Included tables, forms, queries, and reports.
+
+- 📌 **[Tic-Tac-Toe Game](https://github.com/Ziyad-000/Tic-Tac-Toe_game)**  
+  A simple Python implementation of the classic Tic-Tac-Toe game.  
+  - Focused on game logic and user interaction.
 
 ---
 
@@ -67,3 +72,4 @@
 ---
 
 <p align="center">Feel free to explore my repositories and reach out for collaborations or opportunities! 🚀</p>
+
