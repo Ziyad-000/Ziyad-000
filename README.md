@@ -1,132 +1,89 @@
-# Hi there, I'm Ziyad Sayed AbdelTawab 👋
+<div align="center">
 
-🚀 **Flutter Developer | UI/UX Enthusiast | Tech Community Leader**  
-🎓 Computer Science Student – Assiut University  
-📱 Building scalable, clean, and user-centered mobile applications
+# Hi there, I'm Ziyad Sayed! 👋
+
+📱 Flutter Developer | 💻 Mobile App Enthusiast | 🌱 Community Leader
+
+---
+</div>
+
+### 💁‍♀️ About Me
+
+* 🎓 **Computer Science Student** at Assiut University (3rd Year, GPA: 3.35).
+* 💻 Passionate about building high-quality mobile applications using **Flutter** and **Dart**.
+* 🌱 Experienced in **State Management**, **Clean Architecture**, and Backend integration (Firebase & Supabase).
+* 🤝 **Community Leader** at Helpers Tech Community, mentoring students and managing teams.
+
+<br>
+
+### 🚀 Skills & Tools
+
+<div align="center">
+
+#### 💡 Programming & Frameworks
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+#### ☁️ Backend & Databases
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🔧 Tools
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+#### 💭 Additional Skills
+
+</div>
+
+* **State Management:** Provider, BLOC.
+* **Architecture:** MVVM, Clean Architecture, SOLID Principles.
+* **UI/UX:** Responsive UI, Animations, RTL Support.
 
 ---
 
-## 👨‍💻 About Me
+### 📂 Featured Projects
 
-- 🎓 Computer Science student at **Assiut University** (3rd Year – GPA: 3.35 / Very Good).
-- 📱 **Flutter Developer** with hands-on experience in real projects and freelance work.
-- 🧠 Strong background in **Clean Architecture, State Management, and Backend Integration**.
-- 🎨 UI/UX enthusiast with practical experience in user flows, wireframing, and design systems.
-- 🤝 Tech community **Leader & Mentor**, helping students grow and choose the right learning paths.
+* **🛍️ [StyleShop - E-Commerce App](#)**
+    * A complete e-commerce app with product browsing, cart, and order tracking.
+    * ◦ **Tech Stack:** Flutter, Firebase Auth & Firestore, Provider.
+    * ◦ Developed 50+ screens with responsive UI and full order flow.
 
----
-
-## 🛠️ Skills & Tools
-
-### 💻 Programming & Architecture
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
-
-- OOP, SOLID Principles  
-- Clean Architecture, MVVM  
-- Design Patterns  
+* **🏷️ [Codio - Deals & Offers App](#)**
+    * Deals app with OTP auth, categories, and push notifications.
+    * ◦ **Tech Stack:** Flutter, Supabase (Auth, DB, Storage), OneSignal.
+    * ◦ Implemented RTL support and real-time updates.
 
 ---
 
-### 🔄 State Management
-- Provider  
-- BLoC  
-- Stateful Widgets  
+### 🏆 Achievements & Volunteering
+
+* 🏅 **Leader & HR Manager:** Helpers Tech Community (Assiut University).
+* 📜 **DEPI (Digital Egypt Pioneers Initiative):** Flutter Track (Expected Dec 2025).
+* 🤝 **Mentorship:** Guided students and created roadmaps for technical tracks.
 
 ---
 
-### ☁️ Backend & Cloud
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+### 🤝 Let's Connect
 
-- Firebase (Auth, Firestore, Storage, Cloud Messaging)  
-- Supabase (PostgreSQL, Auth, Storage, RLS)  
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://ziyad-000.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ziyad.sayed.cs@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ziyad-000)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziyad-sayed/)
 
-### 🗄️ Databases & Local Storage
-- Firestore  
-- PostgreSQL  
-- Hive  
-- Sqflite  
-- Shared Preferences  
+<br>
+Feel free to explore my repositories and reach out for collaborations or opportunities! 🚀
 
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-### 🎨 UI/UX
-- Figma  
-- Wireframing & Prototyping  
-- User Flow Design  
-- Information Architecture  
-
----
-
-## 📱 Featured Projects
-
-### 🛍️ StyleShop – E-Commerce Mobile App
-**Type:** Graduation Project – DEPI  
-**Role:** Flutter Developer (End-to-End)  
-**Tech:** Flutter, Provider, Firebase, MVVM, Repository Pattern  
-
-- Full e-commerce app with authentication, products, cart, favorites, orders, and addresses.
-- Real-time data handling and scalable architecture.
-
-> ⚠️ Project data used for educational and development purposes only.
-
----
-
-### 🎯 Kodio – Deals & Offers App
-**Type:** Freelance Project  
-**Role:** Flutter Developer (Full Stack)  
-**Tech:** Flutter, Provider, Supabase, OneSignal  
-
-- Deals & offers platform with OTP authentication.
-- Favorites, company following, search, categories, and push notifications.
-- Real-time backend integration with Supabase.
-
-> 🔒 No client-specific or sensitive business data is disclosed.
-
----
-
-## 🏆 Achievements
-- 🥇 **HackerRank Gold Badges** in C++ and Java  
-- 🎓 DEPI – Digital Egypt Pioneers Initiative (Flutter Track) *(In Progress)*  
-
----
-
-## 🤝 Volunteering & Leadership
-
-### Helpers – Tech Community (Assiut University)
-- **Leader** (2024 – Present)  
-- **HR Manager** (2023 – 2024)  
-- **Mentor** (2023)  
-
-**Responsibilities:**
-- Leading and managing technical teams  
-- Organizing workshops and technical sessions  
-- Mentoring students and junior developers  
-- Creating structured learning roadmaps  
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: **ziyad.sayed.cs@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/ziyad-sayed](https://linkedin.com/in/ziyad-sayed)  
-- 🐙 GitHub: [github.com/Ziyad-000](https://github.com/Ziyad-000)  
-- 🌐 Portfolio: [ziyad-000.github.io/portfolio](https://ziyad-000.github.io/portfolio)
-
----
-
-⭐ Feel free to explore my repositories or reach out for collaboration or freelance opportunities 🚀
+</div>
