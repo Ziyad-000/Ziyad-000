@@ -54,12 +54,12 @@
 
 ### 📂 Featured Projects
 
-* **🛍️ [StyleShop - E-Commerce App](#)**
+* **🛍️ [StyleShop - E-Commerce App](https://github.com/Ziyad-000/e-commerce-app)**
     * A complete e-commerce app with product browsing, cart, and order tracking.
     * ◦ **Tech Stack:** Flutter, Firebase Auth & Firestore, Provider.
     * ◦ Developed 50+ screens with responsive UI and full order flow.
 
-* **🏷️ [Codio - Deals & Offers App](#)**
+* **🏷️ [Codio - Deals & Offers App](https://github.com/Ziyad-000/kodio) (Private)**
     * Deals app with OTP auth, categories, and push notifications.
     * ◦ **Tech Stack:** Flutter, Supabase (Auth, DB, Storage), OneSignal.
     * ◦ Implemented RTL support and real-time updates.
