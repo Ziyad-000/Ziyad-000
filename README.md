@@ -1,75 +1,132 @@
-<h1 align="center">Hi there, I'm Ziyad Sayed! 👋</h1>
-<p align="center">
-🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌱 Lifelong Learner
-</p>
+# Hi there, I'm Ziyad Sayed AbdelTawab 👋
+
+🚀 **Flutter Developer | UI/UX Enthusiast | Tech Community Leader**  
+🎓 Computer Science Student – Assiut University  
+📱 Building scalable, clean, and user-centered mobile applications
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Computer Science Student** at Assiut University (2nd Year, Expected Graduation: 2027).
-- 💻 Passionate about **software development**, **UI/UX design**, and **problem-solving**.
-- 🌱 Currently learning **Data Structures and Algorithms** to enhance my coding skills.
-- 🎯 Always looking for exciting opportunities like internships and collaborations to grow my skills.
+
+- 🎓 Computer Science student at **Assiut University** (3rd Year – GPA: 3.35 / Very Good).
+- 📱 **Flutter Developer** with hands-on experience in real projects and freelance work.
+- 🧠 Strong background in **Clean Architecture, State Management, and Backend Integration**.
+- 🎨 UI/UX enthusiast with practical experience in user flows, wireframing, and design systems.
+- 🤝 Tech community **Leader & Mentor**, helping students grow and choose the right learning paths.
 
 ---
 
-## 🚀 Skills & Tools
-<div align="center">
-  
-### 💡 Programming Languages  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Skills & Tools
 
-### 🔧 Tools  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
+### 💻 Programming & Architecture
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
 
-### 🧠 Additional Skills  
-- Object-Oriented Programming (OOP)  
-- Problem-Solving (Hackerrank Gold Badges in C++ and Java)  
-- UI/UX Design with practical experience  
-</div>
+- OOP, SOLID Principles  
+- Clean Architecture, MVVM  
+- Design Patterns  
 
 ---
 
-## 📂 Featured Projects
-- 📌 **[OOP Project](https://github.com/Ziyad-000/OOP_Project)**  
-  A Java application implementing Object-Oriented Programming principles.  
-  - Utilized Maven for dependency management and build automation.  
+### 🔄 State Management
+- Provider  
+- BLoC  
+- Stateful Widgets  
 
-- 📌 **[ATM Simulation Application](https://github.com/Ziyad-000/My-Work-Space)**  
-  Designed an ATM simulation using C++.  
-  - Focused on transaction handling and account management without GUI or database.
+---
 
-- 📌 **[Access Database Project](https://github.com/Ziyad-000/Access_Project)**  
-  Developed a database system using Microsoft Access.  
-  - Included tables, forms, queries, and reports.
+### ☁️ Backend & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-- 📌 **[Tic-Tac-Toe Game](https://github.com/Ziyad-000/Tic-Tac-Toe_game)**  
-  A simple Python implementation of the classic Tic-Tac-Toe game.  
-  - Focused on game logic and user interaction.
+- Firebase (Auth, Firestore, Storage, Cloud Messaging)  
+- Supabase (PostgreSQL, Auth, Storage, RLS)  
+
+---
+
+### 🗄️ Databases & Local Storage
+- Firestore  
+- PostgreSQL  
+- Hive  
+- Sqflite  
+- Shared Preferences  
+
+---
+
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+
+---
+
+### 🎨 UI/UX
+- Figma  
+- Wireframing & Prototyping  
+- User Flow Design  
+- Information Architecture  
+
+---
+
+## 📱 Featured Projects
+
+### 🛍️ StyleShop – E-Commerce Mobile App
+**Type:** Graduation Project – DEPI  
+**Role:** Flutter Developer (End-to-End)  
+**Tech:** Flutter, Provider, Firebase, MVVM, Repository Pattern  
+
+- Full e-commerce app with authentication, products, cart, favorites, orders, and addresses.
+- Real-time data handling and scalable architecture.
+
+> ⚠️ Project data used for educational and development purposes only.
+
+---
+
+### 🎯 Kodio – Deals & Offers App
+**Type:** Freelance Project  
+**Role:** Flutter Developer (Full Stack)  
+**Tech:** Flutter, Provider, Supabase, OneSignal  
+
+- Deals & offers platform with OTP authentication.
+- Favorites, company following, search, categories, and push notifications.
+- Real-time backend integration with Supabase.
+
+> 🔒 No client-specific or sensitive business data is disclosed.
 
 ---
 
 ## 🏆 Achievements
-- 🥇 **Hackerrank Gold Badges:** C++ and Java.  
-- 📜 **Access Training Certification:** Completed a course on LinkedIn Learning and implemented a practical project.
+- 🥇 **HackerRank Gold Badges** in C++ and Java  
+- 🎓 DEPI – Digital Egypt Pioneers Initiative (Flutter Track) *(In Progress)*  
 
 ---
 
-## 🤝 Let's Connect
-<p align="center">
-<a href="mailto:ziyad.sayed.cs@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Ziyad-000"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ziyad-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</p>
+## 🤝 Volunteering & Leadership
+
+### Helpers – Tech Community (Assiut University)
+- **Leader** (2024 – Present)  
+- **HR Manager** (2023 – 2024)  
+- **Mentor** (2023)  
+
+**Responsibilities:**
+- Leading and managing technical teams  
+- Organizing workshops and technical sessions  
+- Mentoring students and junior developers  
+- Creating structured learning roadmaps  
 
 ---
 
-<p align="center">Feel free to explore my repositories and reach out for collaborations or opportunities! 🚀</p>
+## 📫 Let's Connect
 
+- 📧 Email: **ziyad.sayed.cs@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/ziyad-sayed](https://linkedin.com/in/ziyad-sayed)  
+- 🐙 GitHub: [github.com/Ziyad-000](https://github.com/Ziyad-000)  
+- 🌐 Portfolio: [ziyad-000.github.io/portfolio](https://ziyad-000.github.io/portfolio)
+
+---
+
+⭐ Feel free to explore my repositories or reach out for collaboration or freelance opportunities 🚀
