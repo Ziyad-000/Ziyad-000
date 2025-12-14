@@ -15,10 +15,9 @@
 * 🤝 **Community Leader** at Helpers Tech Community, mentoring students and managing teams.
 
 <br>
-
-### 🚀 Skills & Tools
-
 <div align="center">
+   
+### 🚀 Skills & Tools
 
 #### 💡 Programming & Frameworks
 
